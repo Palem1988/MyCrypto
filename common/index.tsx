@@ -1,7 +1,7 @@
 // Application styles must come first in order, to allow for overrides
 import 'font-awesome/scss/font-awesome.scss';
 import 'sass/styles.scss';
-import 'babel-polyfill';
+import 'core-js/stable';
 import 'whatwg-fetch';
 
 import React from 'react';
